@@ -1,2 +1,3 @@
-'use strict';
+"use strict";
 
+const test = "error";
